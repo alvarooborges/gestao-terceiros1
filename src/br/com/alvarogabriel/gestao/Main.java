@@ -8,7 +8,7 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
 /**
- * @author Álvaro Gabriel (yeeetzy)
+ * @author Álvaro Gabriel
  */
 public class Main {
     private JButton cliqueParaAdicionarOButton;
